@@ -1,0 +1,10 @@
+C:/Users/jessa/UF/25-FALL/COP3530/project1/dsa-project1/cmake-build-debug/CMakeFiles/Main.dir
+C:/Users/jessa/UF/25-FALL/COP3530/project1/dsa-project1/cmake-build-debug/CMakeFiles/Tests.dir
+C:/Users/jessa/UF/25-FALL/COP3530/project1/dsa-project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jessa/UF/25-FALL/COP3530/project1/dsa-project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jessa/UF/25-FALL/COP3530/project1/dsa-project1/cmake-build-debug/_deps/catch2-build/CMakeFiles/edit_cache.dir
+C:/Users/jessa/UF/25-FALL/COP3530/project1/dsa-project1/cmake-build-debug/_deps/catch2-build/CMakeFiles/rebuild_cache.dir
+C:/Users/jessa/UF/25-FALL/COP3530/project1/dsa-project1/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2.dir
+C:/Users/jessa/UF/25-FALL/COP3530/project1/dsa-project1/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir
+C:/Users/jessa/UF/25-FALL/COP3530/project1/dsa-project1/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/edit_cache.dir
+C:/Users/jessa/UF/25-FALL/COP3530/project1/dsa-project1/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/rebuild_cache.dir
